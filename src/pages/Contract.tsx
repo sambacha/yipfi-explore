@@ -46,7 +46,7 @@ export const ContractPage = () => {
   } 
   
   if (!contract) { 
-    return <Notification type="info" message={"🆘 Unable to locate! Network Connectivity issues"} />
+    return <Notification type="info" message={" Unable to locate! Network Connectivity issues"} />
   }
 
   return (

@@ -15,6 +15,7 @@
     "bootstrap": "^4.5.0",
     "ethereum-blockies-base64": "^1.0.2",
     "ethers": "^4.0.47",
+    "moesif-nodejs": "^3.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.2.0",
