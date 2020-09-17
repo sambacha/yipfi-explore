@@ -47,7 +47,7 @@ ul {
 }
 
 .project-card { 
-  border-top: 3px solid #17a2b8;
+  border-top: 3px solid #171717;
   height: 140px;
   transform: translateY(0px);
   transition: .5s;
