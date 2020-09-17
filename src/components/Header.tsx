@@ -7,7 +7,7 @@ export const Header = () => {
   return (
     <>
       <nav className="navbar navbar-light">
-        <a className="navbar-brand text-info" href="/">Contraktor</a>
+        <a className="navbar-brand text-info" href="/">YIFI.DEV</a>
         <ul className="navbar-nav mr-auto">
           <li className="nav-item">
             <Link className="nav-link" to={"/explore"}>Explore</Link>

@@ -19,3 +19,11 @@ export const TokenSets_TransferProxy_ABI = require("./TokenSets/TransferProxy.js
 export const Uniswap_Factory_ABI = require("./Uniswap/UniswapV2Factory.json").abi;
 export const Uniswap_Pair_ABI = require("./Uniswap/UniswapV2Pair.json").abi;
 export const Uniswap_Router01_ABI = require("./Uniswap/UniswapV2Router01.json").abi;
+
+export const YFI_MKR = require("./YFI/StrategyMKRVaultDAIDelegate.json").abi;
+// export const YFI_YPool = require("./YFI/YPool.json").abi;
+// export const YFI_YVault = require("./YFI/YVault.json").abi;
+
+// export const CRV_Curve = require("./CRV/yUSD.json").abi;
+// etc 
+// etc

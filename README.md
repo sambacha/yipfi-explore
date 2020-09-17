@@ -1,4 +1,4 @@
-# Contraktor
+# YIPFI.com
 
 A smart contract explorer.
 
@@ -21,3 +21,5 @@ In the project directory, you can run:
 - `npm start` to run the app in the development mode. Default is [http://localhost:3000](http://localhost:3000).
 - `npm test` to luanch the test runner in the interactive watch mode.
 - `npm build` to create a production build. Output can be found in the `build` folder.
+
+## License

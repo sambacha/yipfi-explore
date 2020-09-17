@@ -6,3 +6,4 @@ export const Kyber = require("./Logo_Kyber.png");
 export const Maker = require("./Logo_Maker.png");
 export const Sets = require("./Logo_Sets.png");
 export const Uniswap = require("./Logo_Uniswap.png");
+export const YFI = require("./Logo_YFI.png");

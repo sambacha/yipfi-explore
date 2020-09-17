@@ -1,7 +1,7 @@
 {
-  "name": "contraktor",
+  "name": "yipfi-registry",
   "description": "",
-  "author": "wslyvh",
+  "author": "SEE LICENSE",
   "version": "0.1.0",
   "scripts": {
     "start": "react-scripts start",
