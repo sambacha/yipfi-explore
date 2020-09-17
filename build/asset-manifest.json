@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fbaa3b38.chunk.css",
+    "main.js": "/static/js/main.50cad72a.chunk.js",
+    "main.js.map": "/static/js/main.50cad72a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8236ad6a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8236ad6a.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.c645df9f.chunk.js": "/static/js/2.c645df9f.chunk.js",
+    "static/js/2.c645df9f.chunk.js.map": "/static/js/2.c645df9f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.edd53bf956424a1445903d67c4532a67.js": "/precache-manifest.edd53bf956424a1445903d67c4532a67.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.fbaa3b38.chunk.css.map": "/static/css/main.fbaa3b38.chunk.css.map",
+    "static/js/2.c645df9f.chunk.js.LICENSE.txt": "/static/js/2.c645df9f.chunk.js.LICENSE.txt",
+    "static/media/Logo_Aave.png": "/static/media/Logo_Aave.d59d2eeb.png",
+    "static/media/Logo_Compound.png": "/static/media/Logo_Compound.45d4fd80.png",
+    "static/media/Logo_ERC20.png": "/static/media/Logo_ERC20.f2caca99.png",
+    "static/media/Logo_Kyber.png": "/static/media/Logo_Kyber.a6fe5fb1.png",
+    "static/media/Logo_Maker.png": "/static/media/Logo_Maker.7163c11e.png",
+    "static/media/Logo_Sets.png": "/static/media/Logo_Sets.a96dee37.png",
+    "static/media/Logo_Uniswap.png": "/static/media/Logo_Uniswap.6e641b6e.png",
+    "static/media/Logo_YFI.png": "/static/media/Logo_YFI.c69913c1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8236ad6a.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.c645df9f.chunk.js",
+    "static/css/main.fbaa3b38.chunk.css",
+    "static/js/main.50cad72a.chunk.js"
+  ]
+}
