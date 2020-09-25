@@ -351,6 +351,13 @@ const ALL_PROJECT_DATA = [
 				{ "network": "goerli", "address": "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a" },
 			]
 		}]
+	},
+	{
+		"name": "yVault_event_Approval",
+"abi": yVault_event_Approval_ABI,
+"addresses": [
+    { "network": "mainnet", "address": "0xacd43e627e64355f1861cec6d3a6688b31a6f952" }
+]
 	}
 ]
 
